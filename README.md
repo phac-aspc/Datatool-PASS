@@ -1,5 +1,5 @@
-# Health Infobase
+# Health Infobase Data Tool
 Documentation coming soon
 
-# Santé Infobase
+# Outil de Données de Santé Infobase
 Instructions d'utilisation en cours de dévelopment
