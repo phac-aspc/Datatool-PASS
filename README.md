@@ -1,6 +1,5 @@
-# React.NET SSR example with TypeScript and Webpack 4 on ASP.NET Core 2.1 MVC
+# Health Infobase
+Documentation coming soon
 
-## To Run
-1. npm install
-2. npm start 
-3. dotnet run
+# Santé Infobase
+Instructions d'utilisation en cours de dévelopment
